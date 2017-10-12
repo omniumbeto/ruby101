@@ -1,6 +1,8 @@
-#esccribir un programa que le pida al suuario un núemro . si el número el mayor a diez, debe imprimir "le numero es mayor a diez" de lo contrario no impmimre nada
+#esccribir un programa que le pida al suuario un núemro . si el número el mayor a diez, debe imprimir "le numero adjes mayor a diez" de lo contrario no impmimre nada
 print " Enter your number\n"
 number = gets.chomp.to_i
+
+
 
 
 if number>10
